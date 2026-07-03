@@ -1,13 +1,13 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile osób w UE głoduje?",
+  "subtitle": "W 2023 r. w UE-27 8,5% ludności było dotkniętych ubóstwem żywnościowym. Najwyższy odsetek odnotowała Rumunia (18,1%), następnie Bułgaria (15,8%) i Węgry (15,1%), a najniższy na Cyprze (1,2%).",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Mapa ta przedstawia odsetek ogółu społeczeństwa, którego nie stać na posiłek zawierający mięso, kurczaka, rybę (lub odpowiednik wegetariański) co drugi dzień.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "extraInfo_LT": "Wartość tymczasowa",
+  "extraInfo_LU": "Przerwa w szeregu czasowym",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
