@@ -1,13 +1,13 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuántas personas pasan hambre en la UE?",
+  "subtitle": "En 2023, en la UE27, el 8,5% de la población se veía afectada por la pobreza alimentaria. Rumanía registraba el porcentaje más alto, con un 18,1%, seguida de Bulgaria con un 15,8% y Hungría con un 15,1%, mientras que Chipre presentaba el valor más bajo, con un 1,2%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Este mapa muestra la proporción de la población total que no puede permitirse una comida con carne, pollo, pescado (o su equivalente vegetariano) cada dos días.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
+  "extraInfo_LT": "Valor provisional",
+  "extraInfo_LU": "Ruptura en la serie temporal",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
