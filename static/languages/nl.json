@@ -1,13 +1,13 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel mensen in de EU lijden honger?",
+  "subtitle": "In 2023 had 8,5% van de bevolking in de EU27 te maken met voedselarmoede. Roemenië had het hoogste percentage met 18,1%, gevolgd door Bulgarije met 15,8% en Hongarije met 15,1%, terwijl Cyprus het laagste percentage had met 1,2%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Deze kaart visualiseert het percentage van de totale bevolking dat zich niet elke twee dagen een maaltijd met vlees, kip, vis (of een vegetarisch alternatief) kan veroorloven.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
+  "extraInfo_LT": "Voorlopige waarde",
+  "extraInfo_LU": "Onderbreking in de tijdreeks",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
