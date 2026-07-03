@@ -1,13 +1,13 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko ljudi v EU je lačnih?",
+  "subtitle": "Leta 2023 je bilo v EU-27 8,5 % ljudi prizadetih zaradi prehranske revščine, pri čemer je imela Romunija najvišji delež z 18,1 %, sledili sta Bolgarija s 15,8 % in Madžarska s 15,1 %, Ciper pa je imel najnižjo vrednost z 1,2 %.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Ta zemljevid prikazuje delež celotnega prebivalstva, ki si ne more privoščiti obroka z mesom, piščancem, ribami (ali vegetarijanskim ekvivalentom) vsak drugi dan.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "extraInfo_LT": "Začasna vrednost",
+  "extraInfo_LU": "Prelom v časovni vrsti",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
