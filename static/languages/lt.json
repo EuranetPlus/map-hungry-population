@@ -1,13 +1,13 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek žmonių ES badauja?",
+  "subtitle": "2023 m. duomenimis, ES 27 šalyse maisto nepriteklius paveikė 8,5 % žmonių. Didžiausia šio rodiklio dalis buvo Rumunijoje – 18,1 %, Bulgarijoje – 15,8 %, Vengrijoje – 15,1 %, o mažiausias – Kipre – 1,2 %.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Šiame žemėlapyje vizualizuojama bendros populiacijos dalis, kuri negali sau leisti valgyti mėsos, vištienos, žuvies (ar vegetariško atitikmens) kas antrą dieną.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
+  "extraInfo_LT": "Preliminari vertė",
+  "extraInfo_LU": "Laiko eilutės pertrauka",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
