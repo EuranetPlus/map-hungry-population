@@ -1,13 +1,13 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Câți oameni din UE suferă de foame?",
+  "subtitle": "În UE27, în 2023, 8,5% dintre persoane erau afectate de sărăcia alimentară, România înregistrând cea mai mare pondere, de 18,1%, urmată de Bulgaria cu 15,8% și Ungaria cu 15,1%, în timp ce Cipru a avut cea mai mică valoare, de 1,2%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Această hartă vizualizează proporția din populația totală care nu își permite o masă cu carne, pui, pește (sau echivalent vegetarian) o dată la două zile.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "extraInfo_LT": "Valoare provizorie",
+  "extraInfo_LU": "Întrerupere în seria temporală",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
