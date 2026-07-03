@@ -1,13 +1,13 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm nies fl-UE qed ibatu l-ġuħ?",
+  "subtitle": "Mill-2023 fl-UE27, 8.5% tan-nies kienu affettwati mill-faqar alimentari, bir-Rumanija tirreġistra l-ogħla sehem bi 18.1%, segwita mill-Bulgarija b'15.8% u l-Ungerija b'15.1%, filwaqt li Ċipru kellha l-inqas valur b'1.2%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Din il-mappa turi s-sehem tal-popolazzjoni ġenerali li ma tistax taffordja ikla bil-laħam, tiġieġ, ħut (jew ekwivalenti veġetarjan) kull jumejn.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
+  "extraInfo_LT": "Valur proviżorju",
+  "extraInfo_LU": "Pawża fis-serje tal-ħin",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
