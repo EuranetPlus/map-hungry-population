@@ -1,13 +1,13 @@
 {
   "title": "Combien de personnes dans l'UE souffrent de la faim ?",
-  "subtitle": "En 2023, dans l'UE27, 8,5 % de la population était touchée par la précarité alimentaire, la Roumanie enregistrant la part la plus élevée à 18,1 %, suivie de la Bulgarie avec 15,8 % et de la Hongrie avec 15,1 %, tandis que Chypre affichait la valeur la plus basse à 1,2 %.",
+  "subtitle": "En 2025, 8,5 % de la population de l'UE était touchée par l'insécurité alimentaire. La Roumanie affichait le taux le plus élevé (18,1 %), suivie de la Bulgarie (15,8 %) et de la Hongrie (15,1 %). Chypre présentait le taux le plus faible (1,2 %), suivie de l'Irlande et du Portugal.",
   "textNoteDescription": "Note",
-  "textNote": "Cette carte visualise la part de la population totale qui n'a pas les moyens de s'offrir un repas à base de viande, de poulet, de poisson (ou son équivalent végétarien) tous les deux jours.",
+  "textNote": "Cette carte montre la proportion de la population qui n'a pas les moyens de s'offrir un repas contenant de la viande, du poulet ou du poisson (ou un équivalent végétarien) tous les deux jours.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_LT": "Valeur provisoire",
-  "extraInfo_LU": "Rupture dans la série chronologique",
   "legend1": "Aucune donnée disponible",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "extraInfo_LT": "Valeur provisoire",
+  "extraInfo_LU": "Rupture dans la série chronologique"
 }

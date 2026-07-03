@@ -1,13 +1,13 @@
 {
   "title": "Kiek žmonių ES badauja?",
-  "subtitle": "2023 m. duomenimis, ES 27 šalyse maisto nepriteklius paveikė 8,5 % žmonių. Didžiausia šio rodiklio dalis buvo Rumunijoje – 18,1 %, Bulgarijoje – 15,8 %, Vengrijoje – 15,1 %, o mažiausias – Kipre – 1,2 %.",
+  "subtitle": "2025 m. 8,5 % ES gyventojų patyrė maisto nepriteklių. Didžiausia dalis užfiksuota Rumunijoje – 18,1 %, po jos seka Bulgarija (15,8 %) ir Vengrija (15,1 %). Mažiausia vertė buvo Kipre – 1,2 %, po jos seka Airija ir Portugalija.",
   "textNoteDescription": "Pastaba",
-  "textNote": "Šiame žemėlapyje vizualizuojama bendros populiacijos dalis, kuri negali sau leisti valgyti mėsos, vištienos, žuvies (ar vegetariško atitikmens) kas antrą dieną.",
+  "textNote": "Šiame žemėlapyje parodyta gyventojų, kurie negali sau leisti kas antrą dieną valgyti mėsos, vištienos ar žuvies (arba vegetariško atitikmens), dalis.",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas (2026 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
-  "extraInfo_LT": "Preliminari vertė",
-  "extraInfo_LU": "Laiko eilutės pertrauka",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "extraInfo_LT": "Preliminari vertė",
+  "extraInfo_LU": "Laiko eilutės pertrauka"
 }

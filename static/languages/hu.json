@@ -1,13 +1,13 @@
 {
   "title": "Hányan éheznek az EU-ban?",
-  "subtitle": "2023-ban az EU27-ben az emberek 8,5%-át érintette az élelmiszer-szegénység, Romániában a legmagasabb, 18,1%-os arányt, ezt követte Bulgária 15,8%-kal és Magyarország 15,1%-kal, míg Cipruson a legalacsonyabb, 1,2%-os értékkel.",
+  "subtitle": "2025-ben az EU lakosságának 8,5%-át sújtotta az élelmiszer-szegénység. Romániában volt a legmagasabb az arány, 18,1%, ezt követte Bulgária (15,8%) és Magyarország (15,1%). Cipruson volt a legalacsonyabb az érték, 1,2%, Írország és Portugália pedig a soron következők között van.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Ez a térkép azt mutatja, hogy a teljes népesség hány százaléka nem engedheti meg magának, hogy minden második nap húst, csirkét, halat (vagy ezek vegetáriánus megfelelőjét) tartalmazó étkezést fogyasszon.",
+  "textNote": "Ez a térkép azt mutatja, hogy a lakosság azon aránya nem engedheti meg magának, hogy minden második nap húst, csirkét vagy halat (vagy ezek vegetáriánus megfelelőjét) tartalmazó étkezést fogyasszon.",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_LT": "Ideiglenes érték",
-  "extraInfo_LU": "Törés az idősorban",
   "legend1": "Nincsenek elérhető adatok",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "extraInfo_LT": "Ideiglenes érték",
+  "extraInfo_LU": "Törés az idősorban"
 }

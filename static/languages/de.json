@@ -1,13 +1,13 @@
 {
   "title": "Wie viele Menschen in der EU leiden Hunger?",
-  "subtitle": "Im Jahr 2023 waren in der EU27 8,5 % der Bevölkerung von Nahrungsmittelarmut betroffen. Rumänien verzeichnete mit 18,1 % den höchsten Anteil, gefolgt von Bulgarien mit 15,8 % und Ungarn mit 15,1 %, während Zypern mit 1,2 % den niedrigsten Wert aufwies.",
+  "subtitle": "Im Jahr 2025 waren 8,5 % der EU-Bevölkerung von Ernährungsarmut betroffen. Rumänien verzeichnete mit 18,1 % den höchsten Anteil, gefolgt von Bulgarien (15,8 %) und Ungarn (15,1 %). Zypern wies mit 1,2 % den niedrigsten Wert auf, dicht gefolgt von Irland und Portugal.",
   "textNoteDescription": "Notiz",
-  "textNote": "Diese Karte veranschaulicht den Anteil der Gesamtbevölkerung, der sich nicht jeden zweiten Tag eine Mahlzeit mit Fleisch, Hühnchen, Fisch (oder einem vegetarischen Äquivalent) leisten kann.",
+  "textNote": "Diese Karte zeigt den Anteil der Bevölkerung, der sich nicht jeden zweiten Tag eine Mahlzeit mit Fleisch, Hühnchen oder Fisch (oder ein entsprechendes vegetarisches Gericht) leisten kann.",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
-  "extraInfo_LT": "Vorläufiger Wert",
-  "extraInfo_LU": "Zeitreihe unterbrochen",
   "legend1": "Keine Daten verfügbar",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "extraInfo_LT": "Vorläufiger Wert",
+  "extraInfo_LU": "Zeitreihe unterbrochen"
 }

@@ -1,13 +1,13 @@
 {
   "title": "Kemm nies fl-UE qed ibatu l-ġuħ?",
-  "subtitle": "Mill-2023 fl-UE27, 8.5% tan-nies kienu affettwati mill-faqar alimentari, bir-Rumanija tirreġistra l-ogħla sehem bi 18.1%, segwita mill-Bulgarija b'15.8% u l-Ungerija b'15.1%, filwaqt li Ċipru kellha l-inqas valur b'1.2%.",
+  "subtitle": "Fl-2025, 8.5% tan-nies fl-UE kienu affettwati mill-faqar alimentari. Ir-Rumanija rreġistrat l-ogħla sehem b'18.1%, segwita mill-Bulgarija (15.8%) u l-Ungerija (15.1%). Ċipru kellha l-inqas valur b'1.2%, bl-Irlanda u l-Portugall warajha.",
   "textNoteDescription": "Nota",
-  "textNote": "Din il-mappa turi s-sehem tal-popolazzjoni ġenerali li ma tistax taffordja ikla bil-laħam, tiġieġ, ħut (jew ekwivalenti veġetarjan) kull jumejn.",
+  "textNote": "Din il-mappa turi l-proporzjon tal-popolazzjoni li ma tistax taffordja ikla li fiha laħam, tiġieġ jew ħut (jew ekwivalenti veġetarjan) kull jumejn.",
   "textSourceDescription": "Sors",
   "textSource": "L-Eurostat (2026)",
   "linkDataAccessDescription": "Aċċessa d-dejta",
-  "extraInfo_LT": "Valur proviżorju",
-  "extraInfo_LU": "Pawża fis-serje tal-ħin",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
+  "extraInfo_LT": "Valur proviżorju",
+  "extraInfo_LU": "Pawża fis-serje taż-żmien"
 }

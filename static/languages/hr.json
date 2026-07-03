@@ -1,13 +1,13 @@
 {
   "title": "Koliko ljudi u EU gladuje?",
-  "subtitle": "Od 2023. godine u EU27, 8,5% ljudi bilo je pogođeno siromaštvom u pogledu hrane, pri čemu je Rumunjska zabilježila najveći udio s 18,1%, zatim Bugarska s 15,8% i Mađarska s 15,1%, dok je Cipar imao najnižu vrijednost s 1,2%.",
+  "subtitle": "U 2025. godini, 8,5% ljudi u EU bilo je pogođeno siromaštvom zbog nedostatka hrane. Rumunjska je zabilježila najveći udio s 18,1%, a slijede Bugarska (15,8%) i Mađarska (15,1%). Cipar je imao najnižu vrijednost s 1,2%, a slijede Irska i Portugal.",
   "textNoteDescription": "Bilješka",
-  "textNote": "Ova karta vizualizira udio ukupne populacije koji si ne može priuštiti obrok s mesom, piletinom, ribom (ili vegetarijanskim ekvivalentom) svaki drugi dan.",
+  "textNote": "Ova karta prikazuje udio stanovništva koji si ne može priuštiti obrok koji sadrži meso, piletinu ili ribu (ili vegetarijanski ekvivalent) svaki drugi dan.",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat (2026.)",
   "linkDataAccessDescription": "Pristup podacima",
-  "extraInfo_LT": "Privremena vrijednost",
-  "extraInfo_LU": "Prekid u vremenskim serijama",
   "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "extraInfo_LT": "Privremena vrijednost",
+  "extraInfo_LU": "Prekid u vremenskim serijama"
 }

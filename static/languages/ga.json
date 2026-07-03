@@ -1,13 +1,13 @@
 {
   "title": "Cé mhéad duine san AE atá ag dul i léig?",
-  "subtitle": "Ó 2023 i leith, bhí 8.5% de dhaoine san AE27 buailte ag bochtaineacht bia, agus an Rómáin ag taifeadadh an sciar is airde ag 18.1%, agus an Bhulgáir ina diaidh le 15.8% agus an Ungáir le 15.1%, agus an Chipir ag an luach is ísle ag 1.2%.",
+  "subtitle": "Sa bhliain 2025, bhí 8.5% de mhuintir an AE thíos le bochtaineacht bia. Bhí an sciar is airde ag an Rómáin ag 18.1%, agus an Bhulgáir (15.8%) agus an Ungáir (15.1%) ina diaidh. Bhí an sciar is ísle ag an gCipir ag 1.2%, agus Éire agus an Phortaingéil ina ndiaidh.",
   "textNoteDescription": "Nóta",
-  "textNote": "Léiríonn an léarscáil seo an sciar den daonra iomlán nach bhfuil in acmhainn béile le feoil, sicín, iasc (nó a choibhéis vegetarian) a íoc gach dara lá.",
+  "textNote": "Léiríonn an léarscáil seo an cion den daonra nach bhfuil in acmhainn béile ina bhfuil feoil, sicín nó iasc (nó a choibhéis vegetarian) a íoc gach dara lá.",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
-  "extraInfo_LT": "Luach sealadach",
-  "extraInfo_LU": "Briseadh i sraith ama",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "extraInfo_LT": "Luach sealadach",
+  "extraInfo_LU": "Briseadh i sraith ama"
 }

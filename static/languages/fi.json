@@ -1,13 +1,13 @@
 {
   "title": "Kuinka moni EU:ssa näkee nälkää?",
-  "subtitle": "Vuonna 2023 EU27-alueella 8,5 % ihmisistä kärsi ruokaköyhyydestä. Romaniassa osuus oli suurin, 18,1 %, Bulgariassa 15,8 % ja Unkarissa 15,1 %, kun taas Kyproksella osuus oli pienin, 1,2 %.",
+  "subtitle": "Vuonna 2025 8,5 % EU:n väestöstä kärsi ruokaköyhyydestä. Romaniassa osuus oli suurin, 18,1 %, jota seurasivat Bulgaria (15,8 %) ja Unkari (15,1 %). Kyproksella osuus oli pienin, 1,2 %, Irlannin ja Portugalin seuratessa perässä.",
   "textNoteDescription": "Huomautus",
-  "textNote": "Tämä kartta visualisoi sen väestön osuuden, jolla ei ole varaa liha-, kana-, kala- (tai vastaavaan kasvisruokaan) joka toinen päivä.",
+  "textNote": "Tämä kartta näyttää niiden väestöryhmien osuuden, joilla ei ole varaa lihaa, kanaa tai kalaa sisältävään ateriaan (tai vastaavaan kasvisruokaan) joka toinen päivä.",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_LT": "Alustava arvo",
-  "extraInfo_LU": "Aikasarjan katkos",
   "legend1": "Ei tietoja saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "extraInfo_LT": "Alustava arvo",
+  "extraInfo_LU": "Aikasarjan katkos"
 }

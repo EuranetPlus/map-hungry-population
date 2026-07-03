@@ -1,13 +1,13 @@
 {
   "title": "Hvor mange mennesker i EU sulter?",
-  "subtitle": "I 2023 var 8,5 % af befolkningen i EU27 berørt af fødevarefattigdom, hvor Rumænien havde den højeste andel med 18,1 %, efterfulgt af Bulgarien med 15,8 % og Ungarn med 15,1 %, mens Cypern havde den laveste værdi med 1,2 %.",
+  "subtitle": "I 2025 var 8,5 % af befolkningen i EU berørt af fødevarefattigdom. Rumænien registrerede den højeste andel med 18,1 %, efterfulgt af Bulgarien (15,8 %) og Ungarn (15,1 %). Cypern havde den laveste værdi med 1,2 %, ledsaget af Irland og Portugal.",
   "textNoteDescription": "Note",
-  "textNote": "Dette kort visualiserer andelen af den samlede befolkning, der ikke har råd til et måltid med kød, kylling, fisk (eller vegetarisk tilsvarende) hver anden dag.",
+  "textNote": "Dette kort viser andelen af befolkningen, der ikke har råd til et måltid indeholdende kød, kylling eller fisk (eller et vegetarisk tilsvarende) hver anden dag.",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Få adgang til dataene",
-  "extraInfo_LT": "Foreløbig værdi",
-  "extraInfo_LU": "Brud i tidsserier",
   "legend1": "Ingen data tilgængelige",
-  "tooltipExtraInfoLabel": "Klik her"
+  "tooltipExtraInfoLabel": "Klik her",
+  "extraInfo_LT": "Foreløbig værdi",
+  "extraInfo_LU": "Brud i tidsserier"
 }

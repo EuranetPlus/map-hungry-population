@@ -1,13 +1,13 @@
 {
   "title": "Câți oameni din UE suferă de foame?",
-  "subtitle": "În UE27, în 2023, 8,5% dintre persoane erau afectate de sărăcia alimentară, România înregistrând cea mai mare pondere, de 18,1%, urmată de Bulgaria cu 15,8% și Ungaria cu 15,1%, în timp ce Cipru a avut cea mai mică valoare, de 1,2%.",
+  "subtitle": "În 2025, 8,5% dintre persoanele din UE erau afectate de sărăcia alimentară. România a înregistrat cea mai mare pondere, de 18,1%, urmată de Bulgaria (15,8%) și Ungaria (15,1%). Cipru a avut cea mai mică valoare, de 1,2%, urmată de Irlanda și Portugalia.",
   "textNoteDescription": "Nota",
-  "textNote": "Această hartă vizualizează proporția din populația totală care nu își permite o masă cu carne, pui, pește (sau echivalent vegetarian) o dată la două zile.",
+  "textNote": "Această hartă arată proporția populației care nu își permite o masă care conține carne, pui sau pește (sau un echivalent vegetarian) o dată la două zile.",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_LT": "Valoare provizorie",
-  "extraInfo_LU": "Întrerupere în seria temporală",
   "legend1": "Nu sunt disponibile date",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "extraInfo_LT": "Valoare provizorie",
+  "extraInfo_LU": "Întrerupere în seria temporală"
 }

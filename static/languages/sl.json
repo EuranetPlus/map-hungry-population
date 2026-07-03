@@ -1,13 +1,13 @@
 {
   "title": "Koliko ljudi v EU je lačnih?",
-  "subtitle": "Leta 2023 je bilo v EU-27 8,5 % ljudi prizadetih zaradi prehranske revščine, pri čemer je imela Romunija najvišji delež z 18,1 %, sledili sta Bolgarija s 15,8 % in Madžarska s 15,1 %, Ciper pa je imel najnižjo vrednost z 1,2 %.",
+  "subtitle": "Leta 2025 je bilo v EU zaradi prehranske revščine prizadetih 8,5 % ljudi. Romunija je zabeležila najvišji delež, 18,1 %, sledili sta ji Bolgarija (15,8 %) in Madžarska (15,1 %). Ciper je imel najnižjo vrednost, 1,2 %, ter Irska in Portugalska.",
   "textNoteDescription": "Opomba",
-  "textNote": "Ta zemljevid prikazuje delež celotnega prebivalstva, ki si ne more privoščiti obroka z mesom, piščancem, ribami (ali vegetarijanskim ekvivalentom) vsak drugi dan.",
+  "textNote": "Ta zemljevid prikazuje delež prebivalstva, ki si ne more privoščiti obroka z mesom, piščancem ali ribami (ali vegetarijanskega ekvivalenta) vsak drugi dan.",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_LT": "Začasna vrednost",
-  "extraInfo_LU": "Prelom v časovni vrsti",
   "legend1": "Ni na voljo podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "extraInfo_LT": "Začasna vrednost",
+  "extraInfo_LU": "Prelom v časovni vrsti"
 }

@@ -1,13 +1,13 @@
 {
   "title": "Cik cilvēku ES cieš badu?",
-  "subtitle": "2023. gadā ES 27 valstīs pārtikas trūkums skāra 8,5 % iedzīvotāju, un visaugstākais īpatsvars bija Rumānijā – 18,1 %, Bulgārijā – 15,8 % un Ungārijā – 15,1 %, savukārt Kiprā bija viszemākais rādītājs – 1,2 %.",
+  "subtitle": "2025. gadā pārtikas trūkums skāra 8,5 % ES iedzīvotāju. Visaugstākais rādītājs bija Rumānijā — 18,1 %, kam sekoja Bulgārija (15,8 %) un Ungārija (15,1 %). Viszemākais rādītājs bija Kiprā — 1,2 %, bet Īrijā un Portugālē — šādas valstis ierindojās.",
   "textNoteDescription": "Piezīme",
-  "textNote": "Šajā kartē ir vizualizēta to iedzīvotāju daļa, kas katru otro dienu nevar atļauties maltīti ar gaļu, vistu, zivi (vai veģetāru ekvivalentu).",
+  "textNote": "Šajā kartē ir parādīta to iedzīvotāju daļa, kuri katru otro dienu nevar atļauties maltīti, kas satur gaļu, vistu vai zivis (vai veģetāru ekvivalentu).",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_LT": "Provizoriskā vērtība",
-  "extraInfo_LU": "Laika rindas pārtraukums",
   "legend1": "Dati nav pieejami",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "extraInfo_LT": "Provizoriskā vērtība",
+  "extraInfo_LU": "Laika rindas pārtraukums"
 }

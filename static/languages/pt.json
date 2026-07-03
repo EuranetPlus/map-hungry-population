@@ -1,13 +1,13 @@
 {
   "title": "Quantas pessoas na UE estão passando fome?",
-  "subtitle": "Em 2023, na UE27, 8,5% da população era afetada pela insegurança alimentar, sendo a Romênia o país com a maior percentagem, de 18,1%, seguida pela Bulgária, com 15,8%, e pela Hungria, com 15,1%, enquanto o Chipre apresentava o valor mais baixo, de 1,2%.",
+  "subtitle": "Em 2025, 8,5% da população da UE foi afetada pela insegurança alimentar. A Romênia registrou a maior porcentagem, com 18,1%, seguida pela Bulgária (15,8%) e Hungria (15,1%). Chipre apresentou o menor índice, com 1,2%, seguido pela Irlanda e Portugal.",
   "textNoteDescription": "Observação",
-  "textNote": "Este mapa visualiza a parcela da população total que não tem condições de comprar uma refeição com carne, frango, peixe (ou equivalente vegetariano) a cada dois dias.",
+  "textNote": "Este mapa mostra a proporção da população que não tem condições de comprar uma refeição contendo carne, frango ou peixe (ou um equivalente vegetariano) em dias alternados.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_LT": "Valor provisório",
-  "extraInfo_LU": "Interrupção em séries temporais",
   "legend1": "Não há dados disponíveis.",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "extraInfo_LT": "Valor provisório",
+  "extraInfo_LU": "Interrupção em séries temporais"
 }

@@ -1,13 +1,13 @@
 {
   "title": "How many people in the EU are going hungry?",
-  "subtitle": "As of 2023 in the EU27, 8.5% of people were affected by food poverty, with Romania recording the highest share at 18.1%, followed by Bulgaria with 15.8% and Hungary with 15.1%, while Cyprus had the lowest value at 1.2%.",
+  "subtitle": "In 2025, 8.5% of people in the EU were affected by food poverty. Romania recorded the highest share at 18.1%, followed by Bulgaria (15.8%) and Hungary (15.1%). Cyprus had the lowest value at 1.2%, with Ireland and Portugal in tow.",
   "textNoteDescription": "Note",
-  "textNote": "This map visualizes the share of the overall population which is inable to afford a meal with meat, chicken, fish (or vegetarian equivalent) every second day.",
+  "textNote": "This map shows the proportion of the population unable to afford a meal containing meat, chicken or fish (or a vegetarian equivalent) every other day.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_LT": "Provisional value",
-  "extraInfo_LU": "Break in time series",
   "legend1": "No data available",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "extraInfo_LT": "Provisional value",
+  "extraInfo_LU": "Break in time series"
 }

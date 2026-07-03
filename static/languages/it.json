@@ -1,13 +1,13 @@
 {
   "title": "Quante persone nell'UE soffrono la fame?",
-  "subtitle": "Nel 2023, nell'UE a 27, l'8,5% della popolazione era affetto da povertà alimentare, con la Romania che registrava la percentuale più alta, pari al 18,1%, seguita da Bulgaria con il 15,8% e Ungheria con il 15,1%, mentre Cipro presentava il valore più basso, pari all'1,2%.",
+  "subtitle": "Nel 2025, l'8,5% della popolazione dell'UE era colpita dalla povertà alimentare. La Romania ha registrato la percentuale più alta, pari al 18,1%, seguita da Bulgaria (15,8%) e Ungheria (15,1%). Cipro ha avuto il valore più basso, con l'1,2%, seguita da Irlanda e Portogallo.",
   "textNoteDescription": "Nota",
-  "textNote": "Questa mappa visualizza la percentuale della popolazione totale che non può permettersi un pasto a base di carne, pollo, pesce (o un'alternativa vegetariana) a giorni alterni.",
+  "textNote": "Questa mappa mostra la percentuale della popolazione che non può permettersi un pasto a base di carne, pollo o pesce (o un'alternativa vegetariana) a giorni alterni.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accedere ai dati",
-  "extraInfo_LT": "Valore provvisorio",
-  "extraInfo_LU": "Interruzione nella serie temporale",
   "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "extraInfo_LT": "Valore provvisorio",
+  "extraInfo_LU": "Interruzione nella serie temporale"
 }

@@ -1,13 +1,13 @@
 {
   "title": "Kui palju inimesi EL-is nälgib?",
-  "subtitle": "2023. aasta seisuga mõjutas EL 27-s toidupuudus 8,5% inimestest, kusjuures suurim osakaal oli Rumeenias 18,1%, järgnesid Bulgaaria 15,8% ja Ungari 15,1%, samas kui madalaim oli Küprosel 1,2%.",
+  "subtitle": "2025. aastal mõjutas toidupuudus 8,5% ELi elanikest. Suurim oli see osakaal Rumeenias, 18,1%, järgnesid Bulgaaria (15,8%) ja Ungari (15,1%). Madalaim oli see näitaja Küprosel, 1,2%, ning edetabelis enim esinesid Iirimaal ja Portugalil.",
   "textNoteDescription": "Märkus",
-  "textNote": "See kaart visualiseerib elanikkonna osakaalu, kes ei saa endale lubada liha-, kana-, kala- (või taimetoidule vastava) einet ülepäeviti.",
+  "textNote": "See kaart näitab elanikkonna osakaalu, kes ei saa endale lubada ülepäeviti liha-, kana- või kalatoitu (või taimetoidu ekvivalenti).",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_LT": "Esialgne väärtus",
-  "extraInfo_LU": "Ajaseeria katkestus",
   "legend1": "Andmed pole saadaval",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "extraInfo_LT": "Esialgne väärtus",
+  "extraInfo_LU": "Ajaseeria katkestus"
 }

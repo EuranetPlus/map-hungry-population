@@ -1,13 +1,13 @@
 {
   "title": "¿Cuántas personas pasan hambre en la UE?",
-  "subtitle": "En 2023, en la UE27, el 8,5% de la población se veía afectada por la pobreza alimentaria. Rumanía registraba el porcentaje más alto, con un 18,1%, seguida de Bulgaria con un 15,8% y Hungría con un 15,1%, mientras que Chipre presentaba el valor más bajo, con un 1,2%.",
+  "subtitle": "En 2025, el 8,5 % de la población de la UE se veía afectada por la pobreza alimentaria. Rumanía registró el porcentaje más alto, con un 18,1 %, seguida de Bulgaria (15,8 %) y Hungría (15,1 %). Chipre presentó el porcentaje más bajo, con un 1,2 %, seguida de Irlanda y Portugal.",
   "textNoteDescription": "Nota",
-  "textNote": "Este mapa muestra la proporción de la población total que no puede permitirse una comida con carne, pollo, pescado (o su equivalente vegetariano) cada dos días.",
+  "textNote": "Este mapa muestra la proporción de la población que no puede permitirse una comida que contenga carne, pollo o pescado (o su equivalente vegetariano) cada dos días.",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_LT": "Valor provisional",
-  "extraInfo_LU": "Ruptura en la serie temporal",
   "legend1": "No hay datos disponibles",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "extraInfo_LT": "Valor provisional",
+  "extraInfo_LU": "Ruptura en la serie temporal"
 }

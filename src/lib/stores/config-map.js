@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
   "title": "How many people in the EU are going hungry?",
-  "subtitle": "As of 2023 in the EU27, 8.5% of people were affected by food poverty, with Romania recording the highest share at 18.1%, followed by Bulgaria with 15.8% and Hungary with 15.1%, while Cyprus had the lowest value at 1.2%.",
+  "subtitle": "In 2025, 8.5% of people in the EU were affected by food poverty. Romania recorded the highest share at 18.1%, followed by Bulgaria (15.8%) and Hungary (15.1%). Cyprus had the lowest value at 1.2%, with Ireland and Portugal in tow.",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content\nBelgium,BE,0.048,false,\nBulgaria,BG,0.158,false,\nCzechia,CZ,0.057,false,\nDenmark,DK,0.031,false,\nGermany,DE,0.111,false,\nEstonia,EE,0.062,false,\nIreland,IE,0.017,false,\nGreece,EL,0.128,false,\nSpain,ES,0.053,false,\nFrance,FR,0.112,false,\nCroatia,HR,0.047,false,\nItaly,IT,0.093,false,\nCyprus,CY,0.012,false,\nLatvia,LV,0.079,false,\nLithuania,LT,0.089,false,Provisional value\nLuxembourg,LU,0.045,false,Break in time series\nHungary,HU,0.151,false,\nMalta,MT,0.115,false,\nNetherlands,NL,0.025,false,\nAustria,AT,0.033,false,\nPoland,PL,0.03,false,\nPortugal,PT,0.019,false,\nRomania,RO,0.181,false,\nSlovenia,SI,0.044,false,\nSlovakia,SK,0.142,false,\nFinland,FI,0.033,false,\nSweden,SE,0.035,false,",
   "parsedData": [
@@ -212,7 +213,7 @@ export const mapConfig = writable({
   "textSource": "Eurostat (2026)",
   "textNoteAvailable": true,
   "textNoteDescription": "Note",
-  "textNote": "This map visualizes the share of the overall population which is inable to afford a meal with meat, chicken, fish (or vegetarian equivalent) every second day.",
+  "textNote": "This map shows the proportion of the population unable to afford a meal containing meat, chicken or fish (or a vegetarian equivalent) every other day.",
   "textDataAccessAvailable": true,
   "linkDataAccessDescription": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_mdes03/default/table?lang=en",
@@ -225,9 +226,9 @@ export const mapConfig = writable({
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
     "title": "How many people in the EU are going hungry?",
-    "subtitle": "As of 2023 in the EU27, 8.5% of people were affected by food poverty, with Romania recording the highest share at 18.1%, followed by Bulgaria with 15.8% and Hungary with 15.1%, while Cyprus had the lowest value at 1.2%.",
+    "subtitle": "In 2025, 8.5% of people in the EU were affected by food poverty. Romania recorded the highest share at 18.1%, followed by Bulgaria (15.8%) and Hungary (15.1%). Cyprus had the lowest value at 1.2%, with Ireland and Portugal in tow.",
     "textNoteDescription": "Note",
-    "textNote": "This map visualizes the share of the overall population which is inable to afford a meal with meat, chicken, fish (or vegetarian equivalent) every second day.",
+    "textNote": "This map shows the proportion of the population unable to afford a meal containing meat, chicken or fish (or a vegetarian equivalent) every other day.",
     "textSourceDescription": "Source",
     "textSource": "Eurostat (2026)",
     "linkDataAccessDescription": "Access the data",

@@ -1,13 +1,13 @@
 {
   "title": "Koľko ľudí v EÚ hladuje?",
-  "subtitle": "V roku 2023 bolo v EÚ27 8,5 % ľudí postihnutých potravinovou chudobou, pričom najvyšší podiel zaznamenalo Rumunsko s 18,1 %, nasledovalo Bulharsko s 15,8 % a Maďarsko s 15,1 %, zatiaľ čo Cyprus mal najnižšiu hodnotu s 1,2 %.",
+  "subtitle": "V roku 2025 bolo 8,5 % ľudí v EÚ postihnutých potravinovou chudobou. Najvyšší podiel zaznamenalo Rumunsko s 18,1 %, nasledovalo Bulharsko (15,8 %) a Maďarsko (15,1 %). Najnižšiu hodnotu mal Cyprus s 1,2 %, za ním nasledovali Írsko a Portugalsko.",
   "textNoteDescription": "Poznámka",
-  "textNote": "Táto mapa zobrazuje podiel celkovej populácie, ktorá si nemôže dovoliť jedlo s mäsom, kuracím mäsom, rybami (alebo vegetariánskym ekvivalentom) každý druhý deň.",
+  "textNote": "Táto mapa zobrazuje podiel populácie, ktorá si nemôže dovoliť jedlo obsahujúce mäso, kuracie mäso alebo ryby (alebo vegetariánsky ekvivalent) každý druhý deň.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_LT": "Predbežná hodnota",
-  "extraInfo_LU": "Prerušenie časového radu",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "extraInfo_LT": "Predbežná hodnota",
+  "extraInfo_LU": "Prerušenie časového radu"
 }
