@@ -1,13 +1,13 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik cilvēku ES cieš badu?",
+  "subtitle": "2023. gadā ES 27 valstīs pārtikas trūkums skāra 8,5 % iedzīvotāju, un visaugstākais īpatsvars bija Rumānijā – 18,1 %, Bulgārijā – 15,8 % un Ungārijā – 15,1 %, savukārt Kiprā bija viszemākais rādītājs – 1,2 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Šajā kartē ir vizualizēta to iedzīvotāju daļa, kas katru otro dienu nevar atļauties maltīti ar gaļu, vistu, zivi (vai veģetāru ekvivalentu).",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "extraInfo_LT": "Provizoriskā vērtība",
+  "extraInfo_LU": "Laika rindas pārtraukums",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
