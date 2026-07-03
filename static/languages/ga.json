@@ -1,13 +1,13 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad duine san AE atá ag dul i léig?",
+  "subtitle": "Ó 2023 i leith, bhí 8.5% de dhaoine san AE27 buailte ag bochtaineacht bia, agus an Rómáin ag taifeadadh an sciar is airde ag 18.1%, agus an Bhulgáir ina diaidh le 15.8% agus an Ungáir le 15.1%, agus an Chipir ag an luach is ísle ag 1.2%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Léiríonn an léarscáil seo an sciar den daonra iomlán nach bhfuil in acmhainn béile le feoil, sicín, iasc (nó a choibhéis vegetarian) a íoc gach dara lá.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "extraInfo_LT": "Luach sealadach",
+  "extraInfo_LU": "Briseadh i sraith ama",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
