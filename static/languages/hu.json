@@ -1,13 +1,13 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Hányan éheznek az EU-ban?",
+  "subtitle": "2023-ban az EU27-ben az emberek 8,5%-át érintette az élelmiszer-szegénység, Romániában a legmagasabb, 18,1%-os arányt, ezt követte Bulgária 15,8%-kal és Magyarország 15,1%-kal, míg Cipruson a legalacsonyabb, 1,2%-os értékkel.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Ez a térkép azt mutatja, hogy a teljes népesség hány százaléka nem engedheti meg magának, hogy minden második nap húst, csirkét, halat (vagy ezek vegetáriánus megfelelőjét) tartalmazó étkezést fogyasszon.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "extraInfo_LT": "Ideiglenes érték",
+  "extraInfo_LU": "Törés az idősorban",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
