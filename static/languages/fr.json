@@ -1,13 +1,13 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien de personnes dans l'UE souffrent de la faim ?",
+  "subtitle": "En 2023, dans l'UE27, 8,5 % de la population était touchée par la précarité alimentaire, la Roumanie enregistrant la part la plus élevée à 18,1 %, suivie de la Bulgarie avec 15,8 % et de la Hongrie avec 15,1 %, tandis que Chypre affichait la valeur la plus basse à 1,2 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Cette carte visualise la part de la population totale qui n'a pas les moyens de s'offrir un repas à base de viande, de poulet, de poisson (ou son équivalent végétarien) tous les deux jours.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
+  "extraInfo_LT": "Valeur provisoire",
+  "extraInfo_LU": "Rupture dans la série chronologique",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
