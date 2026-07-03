@@ -1,13 +1,13 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur många människor i EU svälter?",
+  "subtitle": "År 2023 var 8,5 % av befolkningen i EU27 drabbade av matfattigdom, där Rumänien hade den högsta andelen på 18,1 %, följt av Bulgarien med 15,8 % och Ungern med 15,1 %, medan Cypern hade det lägsta värdet på 1,2 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Denna karta visualiserar andelen av den totala befolkningen som inte har råd med en måltid med kött, kyckling, fisk (eller vegetarisk motsvarande) varannan dag.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "extraInfo_LT": "Preliminärt värde",
+  "extraInfo_LU": "Avbrott i tidsserier",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
